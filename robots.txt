@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-xyfeji.bokupaybymobilecasino.co.uk/sitemap.xml
